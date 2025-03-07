@@ -1,6 +1,9 @@
 <!--![](https://github-contributor-stats.vercel.app/api?username=LeanderCS&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeanderCS&theme=dark&hide_border=true)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeanderCS&theme=dark&hide_border=true"/>
+
 <table style="border:none;width:100%;">
   <tr style="background-color:rgba(0,0,0,0);border:none">
     <td colspan="2" style="padding:5px;border:none">
