@@ -7,7 +7,7 @@
     </td>
   </tr>
   <tr style="background-color:rgba(0,0,0,0);border:none">
-    <td style="padding:5px;border:none"><img style="width:100%" src="https://github-readme-stats-seven-sable-30.vercel.app/api?username=LeanderCS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=500&disable_animations=true&include_all_commits=true&show=true&hide_rank=true&custom_title=LeanderCS's GitHub Stats"/></td>
+    <td style="padding:5px;border:none"><img style="width:100%" src="https://github-readme-stats-seven-sable-30.vercel.app/api?username=LeanderCS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=500&disable_animations=true&include_all_commits=true&show=true&hide_rank=true&custom_title='LeanderCS's GitHub Stats'"/></td>
     <td style="padding:5px;border:none"><img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeanderCS&theme=dark&hide_border=true"/></td>
   </tr>
   <tr style="background-color:rgba(0,0,0,0);border:none">
