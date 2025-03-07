@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>
-      <img style="width:100%" src="https://github-readme-stats-seven-sable-30.vercel.app/api/top-langs?username=leandercs&langs_count=10&card_width=500&theme=dark&hide_border=true&count_private=true&layout=compact&disable_animations=true&exclude_repo=github-readme-stats"/>
+      <img style="width:100%" src="https://github-readme-stats-seven-sable-30.vercel.app/api/top-langs?username=leandercs&langs_count=10&card_width=500&theme=dark&hide_border=true&count_private=true&layout=compact&disable_animations=true&exclude_repo=github-readme-stats,github-readme-streak-stats"/>
     </td>
     <td>
       <img style="width:100%" src="https://github-readme-stats-seven-sable-30.vercel.app/api/wakatime?username=LeanderCS&theme=dark&hide_border=true&layout=compact&disable_animations=true&langs_count=10&card_width=500"/>
